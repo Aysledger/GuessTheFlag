@@ -118,6 +118,10 @@ struct ContentView: View {
   func reset() {
     userScore = 0
     questionNumber = 1
+    rotationAmounts = [0.0, 0.0, 0.0]  
+    selectedFlag = nil                
+    askQuestion() 
+    
   }
   
   func askQuestion() {
