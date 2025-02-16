@@ -7,18 +7,18 @@ This is a solution to the **[Guess The Flag** challenge from **100 Days of Swift
 ---
 
 ## 📑 Table of Contents  
-- [📌 About This Project](#about-this-project)  
-- [📸 App demo](#preview)  
-- [🛠 Technologies](#technologies)  
-- [📚 Learning Experience](#learning-experience)  
-- [👤 Author](#author)   
+- [About this project](#about-this-project)
+- [Preview](#preview)
+- [Technologies](#technologies)
+- [What I Learned](#what-i-learned)
+- [Author](#author)
 
 ---
 
-## 📌 About This Project  
+### 📌 About This Project  
 **Guess The Flag** is a native iPhone guessing game designed to help users recognize and learn the flags of different countries. Built entirely with **SwiftUI**, it provides a fun and interactive way to test flag knowledge.
 
-### 📌 Features & Concepts Used:  
+## 📌 Features & Concepts Used:  
 - **Using stacks** to arrange views  
 - **Colors, frames, and gradients** for styling  
 - **Buttons and images** for user interaction  
@@ -41,13 +41,13 @@ Users should be able to:
 
 ---
 
-## 📸 Preview  
+### 📸 Preview  
 
 ![Screenshot 1](recording.gif) 
 
 ---
 
-## 🛠 Technologies  
+### 🛠 Technologies  
 **Languages & Tools:**  
 - Swift  
 - SwiftUI  
@@ -55,7 +55,7 @@ Users should be able to:
 
 ---
 
-## 📚 Learning Experience  
+### 📚 Learning Experience  
 This project helped me solidify my understanding of basic SwiftUI concepts, including:  
 - Stacks
 - Colors/Gradients
@@ -67,6 +67,6 @@ This project helped me solidify my understanding of basic SwiftUI concepts, incl
 
 ---
 
-## 👤 Author  
+### 👤 Author  
 - **GitHub:** [@Aysledger](https://github.com/Aysledger)  
 - **100 Days of SwiftUI:** [@twostraws](https://twitter.com/twostraws)  
