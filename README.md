@@ -2,7 +2,7 @@
 
 
 
-This is a solution to the **[Guess The Flag** challenge from **100 Days of SwiftUI](https://www.hackingwithswift.com/books/ios-swiftui/guess-the-flag-wrap-up)**.
+Solution to the **[Guess The Flag challenge from 100 Days of SwiftUI](https://www.hackingwithswift.com/books/ios-swiftui/guess-the-flag-wrap-up)**.
 
 ---
 
